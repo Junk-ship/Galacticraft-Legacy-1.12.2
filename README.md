@@ -1,23 +1,13 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+Galacticraft-Legacy is the continued and re-branded version of Galacticraft 4 (1.12.2)
+Features
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+    Travel throughout the solar system!
+    Create and customize your very own spaceship!
+    Explore new planets and moons!
+    Space Races - Create Teams, Flags, with Stats!
+    Electrical and Oxygen System!
+    SMP Support - Explore with your friends!
+    Multiple language support! Thanks to all translators.
+    Lots of new items and blocks!
+    Dungeons!
+    API to allow modders to add more content, including whole new solar systems!
